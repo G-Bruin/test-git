@@ -2,3 +2,4 @@
 2:beijing-1
 3:beijing-2
 4:beijing-3
+5:上海-1
